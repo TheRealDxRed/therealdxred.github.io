@@ -12,3 +12,5 @@ I spend a ridiculous amount of time reading about cryptology and cryptography, a
 Now and again, I might also write a little program of my own, too. If these find themselves used in a puzzle, they'll end up in the Toolbox as well. (With their respective documentation, too)
 ### Sharing is caring
 I don't have a problem with teamwork. In fact, I encourage it. An [ARG](https://en.wikipedia.org/wiki/Alternate_reality_game), which is the best way to describe my puzzles, is usually meant to be solved by a group, each giving their own unique perspectives on what the solution (or solutions) might be. But as long as you're sharing the answer, you're sharing the glory. There's no reward for solving these puzzles alone, so don't be a hog.
+### Clues are okay, but they don't have to make sense
+Feel free to ask for clues if you get stumped somewhere. I'll always give you an answer, but it won't always be straightforward. My clues will be vague enough that you'll still have to do some work, but they'll still have the answer in there somewhere.
